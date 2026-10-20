@@ -6,3 +6,4 @@
 - 2-groups: displays the groups of the current user.
 - 3-new_owner: changes the owner of hello to betty.
 - 4-empty: creates an empty file named hello.
+- 5-execute: adds execute permission to the owner of hello.
