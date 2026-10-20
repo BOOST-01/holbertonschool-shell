@@ -4,3 +4,4 @@
 
 - 1-who_am_i: displays the effective username of the current user.
 - 2-groups: displays the groups of the current user.
+- 3-new_owner: changes the owner of hello to betty.
