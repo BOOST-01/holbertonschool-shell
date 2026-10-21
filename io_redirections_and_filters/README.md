@@ -77,3 +77,7 @@ The script displays lines from /etc/passwd that do not contain "bin".
 ## 18. Letters only please
 
 The script displays lines from /etc/ssh/sshd_config that start with a letter, uppercase or lowercase.
+
+## 19. A to Z
+
+The script replaces A with Z and c with e from standard input using tr.
