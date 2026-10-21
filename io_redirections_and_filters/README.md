@@ -53,3 +53,7 @@ The script counts all directories and subdirectories, including hidden directori
 ## 12. What's new
 
 The script displays the 10 newest files in the current directory, sorted from newest to oldest.
+
+## 13. Being unique is better than being perfect
+
+The script sorts input words and displays only words that appear exactly once.
