@@ -5,3 +5,7 @@ This project contains Bash scripts for practicing shell input, output, redirecti
 ## 0. Hello World
 
 The script prints Hello, World followed by a new line.
+
+## 1. Confused smiley
+
+The script displays the confused smiley "(Ôo)'.
