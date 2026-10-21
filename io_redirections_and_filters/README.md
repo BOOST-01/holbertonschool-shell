@@ -9,3 +9,7 @@ The script prints Hello, World followed by a new line.
 ## 1. Confused smiley
 
 The script displays the confused smiley "(Ôo)'.
+
+## 2. Let's display a file
+
+The script displays the contents of /etc/passwd.
