@@ -13,3 +13,7 @@ The script displays the confused smiley "(Ôo)'.
 ## 2. Let's display a file
 
 The script displays the contents of /etc/passwd.
+
+## 3. What about 2?
+
+The script displays the contents of /etc/passwd and /etc/hosts.
