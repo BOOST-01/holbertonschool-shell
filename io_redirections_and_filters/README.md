@@ -49,3 +49,7 @@ The script deletes regular files with the .js extension in the current directory
 ## 11. Directories
 
 The script counts all directories and subdirectories, including hidden directories, excluding the current and parent directories.
+
+## 12. What's new
+
+The script displays the 10 newest files in the current directory, sorted from newest to oldest.
