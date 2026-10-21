@@ -33,3 +33,7 @@ The script displays the third line of the file iacta.
 ## 7. File name
 
 The script creates a file with a special name containing the text Best School.
+
+## 8. Save current state of directory
+
+The script saves the output of ls -la into ls_cwd_content, overwriting it if it already exists.
