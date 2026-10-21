@@ -73,3 +73,7 @@ The script displays lines containing "root" and the three following lines from /
 ## 17. I hate bins
 
 The script displays lines from /etc/passwd that do not contain "bin".
+
+## 18. Letters only please
+
+The script displays lines from /etc/ssh/sshd_config that start with a letter, uppercase or lowercase.
