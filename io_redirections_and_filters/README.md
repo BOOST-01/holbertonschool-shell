@@ -89,3 +89,7 @@ The script removes all lowercase c and uppercase C characters from standard inpu
 ## 21. esreveR
 
 The script reverses each line received from standard input using rev.
+
+## 22. DJ Cut Killer
+
+The script displays usernames and home directories from /etc/passwd, sorted alphabetically by username.
