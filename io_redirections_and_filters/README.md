@@ -57,3 +57,7 @@ The script displays the 10 newest files in the current directory, sorted from ne
 ## 13. Being unique is better than being perfect
 
 The script sorts input words and displays only words that appear exactly once.
+
+## 14. It must be in that file
+
+The script displays lines containing the word "root" from /etc/passwd.
