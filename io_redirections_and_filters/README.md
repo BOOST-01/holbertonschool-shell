@@ -45,3 +45,7 @@ The script appends a copy of the last line of iacta to the file.
 ## 10. No more javascript
 
 The script deletes regular files with the .js extension in the current directory and its subdirectories.
+
+## 11. Directories
+
+The script counts all directories and subdirectories, including hidden directories, excluding the current and parent directories.
