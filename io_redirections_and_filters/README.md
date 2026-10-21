@@ -29,3 +29,7 @@ The script displays the first 10 lines of /etc/passwd.
 ## 6. Line #2
 
 The script displays the third line of the file iacta.
+
+## 7. File name
+
+The script creates a file with a special name containing the text Best School.
