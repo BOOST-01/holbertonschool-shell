@@ -37,3 +37,7 @@ The script creates a file with a special name containing the text Best School.
 ## 8. Save current state of directory
 
 The script saves the output of ls -la into ls_cwd_content, overwriting it if it already exists.
+
+## 9. Duplicate last line
+
+The script appends a copy of the last line of iacta to the file.
