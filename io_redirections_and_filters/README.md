@@ -81,3 +81,7 @@ The script displays lines from /etc/ssh/sshd_config that start with a letter, up
 ## 19. A to Z
 
 The script replaces A with Z and c with e from standard input using tr.
+
+## 20. Without C, you would live in hiago
+
+The script removes all lowercase c and uppercase C characters from standard input using tr.
