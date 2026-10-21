@@ -69,3 +69,7 @@ The script counts the lines containing "bin" in /etc/passwd.
 ## 16. What's next?
 
 The script displays lines containing "root" and the three following lines from /etc/passwd.
+
+## 17. I hate bins
+
+The script displays lines from /etc/passwd that do not contain "bin".
