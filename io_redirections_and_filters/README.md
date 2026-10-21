@@ -61,3 +61,7 @@ The script sorts input words and displays only words that appear exactly once.
 ## 14. It must be in that file
 
 The script displays lines containing the word "root" from /etc/passwd.
+
+## 15. Count that word
+
+The script counts the lines containing "bin" in /etc/passwd.
