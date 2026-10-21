@@ -41,3 +41,7 @@ The script saves the output of ls -la into ls_cwd_content, overwriting it if it 
 ## 9. Duplicate last line
 
 The script appends a copy of the last line of iacta to the file.
+
+## 10. No more javascript
+
+The script deletes regular files with the .js extension in the current directory and its subdirectories.
