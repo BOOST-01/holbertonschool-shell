@@ -38,3 +38,7 @@ The script adds 128 to the TRUEKNOWLEDGE environment variable.
 ## 9. Divide and rule
 
 The script divides the POWER environment variable by the DIVIDE environment variable.
+
+## 10. Love exponent breath
+
+The script calculates the value of BREATH raised to the power of LOVE.
