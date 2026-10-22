@@ -54,3 +54,7 @@ The script displays all combinations of two lowercase letters except oo.
 ## 13. Print float
 
 The script prints the NUM environment variable with two decimal places.
+
+## 14. Decimal to hexadecimal
+
+The script converts the DECIMAL environment variable to hexadecimal.
