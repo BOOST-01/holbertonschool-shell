@@ -26,3 +26,7 @@ The script displays shell variables, environment variables, and functions using 
 ## 6. Create local variable
 
 The script creates a local variable named BEST with the value School.
+
+## 7. Create global variable
+
+The script exports a global variable named BEST with the value School.
