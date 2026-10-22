@@ -22,3 +22,7 @@ The script displays all environment variables using printenv.
 ## 5. Local variables
 
 The script displays shell variables, environment variables, and functions using set.
+
+## 6. Create local variable
+
+The script creates a local variable named BEST with the value School.
