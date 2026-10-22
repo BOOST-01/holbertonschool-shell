@@ -10,3 +10,7 @@ The script displays hello followed by the current Linux username using whoami.
 ## 2. Path
 
 The script adds /action to the end of the PATH environment variable.
+
+## 3. Paths
+
+The script counts the directories listed in the PATH environment variable.
