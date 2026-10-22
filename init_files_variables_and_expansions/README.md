@@ -14,3 +14,7 @@ The script adds /action to the end of the PATH environment variable.
 ## 3. Paths
 
 The script counts the directories listed in the PATH environment variable.
+
+## 4. Global variables
+
+The script displays all environment variables using printenv.
