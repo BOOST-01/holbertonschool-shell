@@ -50,3 +50,7 @@ The script converts the BINARY environment variable from binary to decimal.
 ## 12. Combination
 
 The script displays all combinations of two lowercase letters except oo.
+
+## 13. Print float
+
+The script prints the NUM environment variable with two decimal places.
