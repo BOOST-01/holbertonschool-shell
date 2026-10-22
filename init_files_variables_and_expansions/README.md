@@ -46,3 +46,7 @@ The script calculates the value of BREATH raised to the power of LOVE.
 ## 11. Binary to decimal
 
 The script converts the BINARY environment variable from binary to decimal.
+
+## 12. Combination
+
+The script displays all combinations of two lowercase letters except oo.
