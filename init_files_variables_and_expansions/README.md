@@ -34,3 +34,7 @@ The script exports a global variable named BEST with the value School.
 ## 8. True knowledge
 
 The script adds 128 to the TRUEKNOWLEDGE environment variable.
+
+## 9. Divide and rule
+
+The script divides the POWER environment variable by the DIVIDE environment variable.
