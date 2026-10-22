@@ -30,3 +30,7 @@ The script creates a local variable named BEST with the value School.
 ## 7. Create global variable
 
 The script exports a global variable named BEST with the value School.
+
+## 8. True knowledge
+
+The script adds 128 to the TRUEKNOWLEDGE environment variable.
