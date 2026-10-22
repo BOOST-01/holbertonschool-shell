@@ -42,3 +42,7 @@ The script divides the POWER environment variable by the DIVIDE environment vari
 ## 10. Love exponent breath
 
 The script calculates the value of BREATH raised to the power of LOVE.
+
+## 11. Binary to decimal
+
+The script converts the BINARY environment variable from binary to decimal.
